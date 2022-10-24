@@ -6,7 +6,7 @@ function App() {
     <div className="App">
 <h1>Med Blog</h1>
 <div id="page-body">
-  
+  Welcome
 </div>
     </div>
   );
