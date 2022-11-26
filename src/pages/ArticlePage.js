@@ -17,8 +17,12 @@ const ArticlePage = () => {
         <>
         <h1>{article.title}</h1> 
 
-        
+
         {article.content.map(paragraph => (
+
+
+
+
             <p key={paragraph}>{paragraph}</p>
         ))}
         </>
